@@ -115,7 +115,7 @@ def main():
     base_path = Path.home() / "AppData/Roaming/.minecraft/labymod-neo"
     modpack_path = base_path / "modpacks/christmas2024/fabric/1.21.1/mods"
     addons_path = base_path / "modpacks/christmas2024/addons"
-    modpacks_file = base_path / "modpacks.json"
+    modpacks_file = base_path / "modpacks/modpacks.json"
     
     modpack_key = "christmas2024"
     modpack_name = "Christmas 2024"
